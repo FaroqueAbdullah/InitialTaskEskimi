@@ -1,0 +1,50 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+.App {
+  text-align: center;
+}
+
+.all-data {
+  height: 420px;
+  width: 100%;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+
+.body-files {
+  margin-top: 10px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.list-of-data {
+  width: 70%;
+  height: 50vh;
+}
+
+.selected-data {
+  width: 30%;
+  height: 450px;
+}
+
+.pagination-button {
+  display: flex;
+  flex-direction: row;
+  float: right;
+}
+
+.left-button {
+  margin: 15px;
+  font-size: 20px;
+}
+
+.right-button {
+  margin: 15px;
+  font-size: 20px;
+}
+
+.page-number {
+  margin: 15px;
+  font-size: 20px;
+}

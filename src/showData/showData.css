@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+HK&display=swap');
+
+.selected-data-container {
+    /* margin-top: 50px; */
+    margin: auto 5px;
+    height: auto;
+    border: 2px solid gray;
+    font-family: 'Noto Sans HK', sans-serif;
+    border-radius: 5px;
+}
+
+.data-container {
+    margin: 5px;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+.all-data-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 30px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+
+.show-data-info {
+    width: 20%;
+    margin-left: 20px;
+    text-align: left;
+}
+
+.show-name {
+    width: 40%;
+    text-align: left;
+}
+
+.clicked {
+    color: brown;
+    font-size: 18px;
+}
